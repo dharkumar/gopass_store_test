@@ -1,4 +1,6 @@
 fileignoreconfig:
 - filename: .public-keys/0xE57DF11470A18D60
   checksum: 1e2b76bab0fe86d90887592b072dec72e91a901a722e1195a685b07e56604faa
+- filename: .public-keys/0xA697980B08FC2CFA
+  checksum: 49c1c04f5a3bb3a909977a779af7db4fb9b61175f5814e4241db7a1a7a4c5e67
 version: ""
